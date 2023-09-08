@@ -1,26 +1,47 @@
 const translations = {
     en: {
-        heading: "Apartment for Rent",
-        description: "This beautiful apartment is available for rent. Contact us for more details.",
+        heading: "Apartment Una",
+        chooseLanguage: "Choose language: ",
+        t1: "Below you can find instructions for entering the apartment and navigating the apartment.",
+        kakoDoci: "How to get there",
+        adresa: "Address is Umag, Olge Ban 3.",
+        parking: "Parking",
+        parkingOpis: "There is a free public parking lot in front of the apartment.",
+        kljucevi: "Keys for apartment",
     },
     hr: {
-        heading: "Apartman za najam",
-        description: "Ovaj prekrasan apartman je dostupan za najam. Kontaktirajte nas za više detalja.",
+        heading: "Apartman Una",
+        chooseLanguage: "Odaberite jezik: ",
+        t1: "U nastavku možete pronaći upute za ulazak u apartman i snalaženje u apartmanu.",
+        kakoDoci: "Kako doći",
+        adresa: "Adresa je Umag, Olge Ban 3.",
+        parking: "Parking",
+        parkingOpis: "Ispred apartmana se nalazi javni besplatni parking.",
+        kljucevi: "Ključevi za apartman",
     },
     de: {
-        heading: "Wohnung zu vermieten",
-        description: "Diese wunderschöne Wohnung steht zur Vermietung. Kontaktieren Sie uns für weitere Details.",
+        heading: "Appartement Una",
     },
     it: {
-        heading: "Appartamento in affitto",
-        description: "Questo bellissimo appartamento è disponibile in affitto. Contattaci per ulteriori dettagli.",
+        heading: "Appartamento Una",
+
     }
 };
 
 function setLanguage(lang) {
     document.querySelector('html').setAttribute('lang', lang);
-    document.getElementById('heading').textContent = translations[lang].heading;
-    document.getElementById('description').textContent = translations[lang].description;
+    const tekstovi = translations[lang];
+    const elementi = document.querySelectorAll('[translate]');
+
+    elementi.forEach((element) => {
+        const kljuc = element.getAttribute('translate');
+        if (tekstovi[kljuc]) {
+            element.textContent = tekstovi[kljuc];
+        }
+    });
+    
+    //document.getElementById('heading').textContent = translations[lang].heading;
+    //document.getElementById('description').textContent = translations[lang].description;
 }
 
 document.getElementById('lang-en').addEventListener('click', () => setLanguage('en'));
