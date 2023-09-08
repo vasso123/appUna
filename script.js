@@ -18,7 +18,8 @@ const translations = {
         parking: "Parking",
         parkingOpis: "Ispred apartmana se nalazi javni besplatni parking.",
         kljucevi: "Ključevi za apartman",
-        t2: "Ključeve možete preuzeti u poštanskom sandučiću (prezime Keglević). Jedan ključ je za ulazna vrata u dvorište, a drugi je za ulaz u apartman. Molimo vas da uvijek zaključavate dvorišna vrata."
+        t2: "Ključeve možete preuzeti u poštanskom sandučiću (prezime Keglević). Jedan ključ je za ulazna vrata u dvorište, a drugi je za ulaz u apartman. Molimo vas da uvijek zaključavate dvorišna vrata.",
+        t3: "Na zadnji dan boravka, pri odlasku iz apartmana, molimo vas ostavite ključeve u poštanskom sandučiću.</p>",
     },
     de: {
         heading: "Appartement Una",
