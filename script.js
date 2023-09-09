@@ -11,6 +11,7 @@ const translations = {
         t2: "You can collect the keys from the mailbox (surname Keglević). One key is for the courtyard entrance, and the other is for the apartment entrance. Please remember to always lock the courtyard gate.",
         t3: "On the last day of your stay, when leaving the apartment, please leave the keys in the mailbox.",
         ulaz: "Apartment Entrance",
+        dvoriste: "Courtyard Entrance",
     },
     hr: {
         heading: "Apartman Una",
@@ -24,6 +25,7 @@ const translations = {
         t2: "Ključeve možete preuzeti u poštanskom sandučiću (prezime Keglević). Jedan ključ je za ulazna vrata u dvorište, a drugi je za ulaz u apartman. Molimo vas da uvijek zaključavate dvorišna vrata.",
         t3: "Na zadnji dan boravka, pri odlasku iz apartmana, molimo vas ostavite ključeve u poštanskom sandučiću.",
         ulaz: "Ulaz u apartman",
+        dvoriste: "Ulaz u dvorište",
     },
     de: {
         heading: "Apartment Una",
@@ -37,6 +39,8 @@ const translations = {
         t2: "Sie können die Schlüssel aus dem Briefkasten (Familienname Keglević) abholen. Ein Schlüssel ist für das Tor zum Hof, der andere für den Eingang zur Wohnung. Bitte denken Sie daran, das Hof-Tor immer abzuschließen.",
         t3: "Am letzten Tag Ihres Aufenthalts, wenn Sie die Wohnung verlassen, hinterlassen Sie bitte die Schlüssel im Briefkasten.",
         ulaz: "Eingang zur Wohnung",
+        dvoriste: "Hofeingang",
+
     },
     it: {
         heading: "Appartamento Una",
@@ -50,6 +54,7 @@ const translations = {
         t2: "Puoi ritirare le chiavi dalla cassetta delle lettere (cognome Keglević). Una chiave è per l'ingresso del cortile, l'altra per l'ingresso dell'appartamento. Per favore, ricordati sempre di chiudere il cancello del cortile.",
         t3: "L'ultimo giorno del tuo soggiorno, quando lasci l'appartamento, per favore lascia le chiavi nella cassetta delle lettere.",
         ulaz: "Ingresso dell'Appartamento",
+        dvoriste: "Ingresso al cortile",
 
 
     }
