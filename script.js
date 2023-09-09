@@ -120,6 +120,9 @@ document.getElementById('lang-en').addEventListener('click', () => setLanguage('
 document.getElementById('lang-hr').addEventListener('click', () => setLanguage('hr'));
 document.getElementById('lang-de').addEventListener('click', () => setLanguage('de'));
 document.getElementById('lang-it').addEventListener('click', () => setLanguage('it'));
+document.getElementById('lang-cz').addEventListener('click', () => setLanguage('cz'));
+document.getElementById('lang-pl').addEventListener('click', () => setLanguage('pl'));
+
 
 // Postavljanje zadanog jezika
 setLanguage('en');
