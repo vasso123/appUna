@@ -64,7 +64,40 @@ const translations = {
         dvoriste: "Ingresso al cortile",
         vrata: "Porta d'ingresso",
         t4: "Si prega di prestare attenzione durante la chiusura della porta; prima sollevare la maniglia verso l'alto, quindi girare la chiave nella serratura.",
-    }
+    },
+    cz: {
+        heading: "Apartmán Una",
+        chooseLanguage: "Vyberte jazyk: ",
+        t1: "Níže najdete pokyny pro vstup do apartmánu a navigaci uvnitř.",
+        kakoDoci: "Jak sem dojít",
+        adresa: "Adresa je Umag, Olge Ban 3.",
+        parking: "Parkování",
+        parkingOpis: "Před apartmánem se nachází veřejné, zdarma dostupné parkoviště.",
+        kljucevi: "Klíče k apartmánu",
+        t2: "Klíče si můžete vyzvednout z poštovní schránky (příjmení Keglević). Jeden klíč je pro vstup do dvora a druhý je pro vstup do apartmánu. Prosím, pamatujte si vždy zamykat dvorek.",
+        t3: "V poslední den vašeho pobytu, při opuštění apartmánu, prosím, klíče nechte v poštovní schránce.",
+        ulaz: "Vstup do apartmánu",
+        dvoriste: "Vstup do nádvoří",
+        vrata: "Přední dveře",
+        t4: "Při zamykání dveří pozorně zvedněte kliku nahoru a poté otočte klíčem v zámku.",
+    },
+    pl: {
+        heading: "Apartament Una",
+        chooseLanguage: "Wybierz język: ",
+        t1: "Poniżej znajdziesz instrukcje dotyczące wejścia do apartamentu i nawigacji wewnątrz.",
+        kakoDoci: "Jak się dostać",
+        adresa: "Adres to Umag, Olge Ban 3.",
+        parking: "Parking",
+        parkingOpis: "Przed apartamentem znajduje się ogólnodostępny, bezpłatny parking.",
+        kljucevi: "Klucze do apartamentu",
+        t2: "Klucze można odebrać z skrzynki pocztowej (nazwisko Keglević). Jeden klucz służy do wejścia na dziedziniec, a drugi do wejścia do apartamentu. Proszę pamiętać, aby zawsze zamykać bramę na dziedzińcu.",
+        t3: "W ostatni dzień pobytu, opuszczając apartament, proszę zostawić klucze w skrzynce pocztowej.",
+        ulaz: "Wejście do apartamentu",
+        dvoriste: "Wejście na dziedziniec",
+        vrata: "Drzwi frontowe",
+        t4: "Proszę zwrócić uwagę przy zamykaniu drzwi: najpierw podnieś klamkę w górę, a następnie obróć kluczem w zamku.",
+
+    },
 };
 
 function setLanguage(lang) {
