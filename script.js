@@ -1,13 +1,16 @@
 const translations = {
     en: {
         heading: "Apartment Una",
-        chooseLanguage: "Choose language: ",
-        t1: "Below you can find instructions for entering the apartment and navigating the apartment.",
-        kakoDoci: "How to get there",
-        adresa: "Address is Umag, Olge Ban 3.",
+        chooseLanguage: "Select Language: ",
+        t1: "Below you can find instructions for entering the apartment and navigating inside.",
+        kakoDoci: "How to Get Here",
+        adresa: "The address is Umag, Olge Ban 3.",
         parking: "Parking",
-        parkingOpis: "There is a free public parking lot in front of the apartment.",
-        kljucevi: "Keys for apartment",
+        parkingOpis: "There is a public free parking area in front of the apartment.",
+        kljucevi: "Apartment Keys",
+        t2: "You can collect the keys from the mailbox (surname Keglević). One key is for the courtyard entrance, and the other is for the apartment entrance. Please remember to always lock the courtyard gate.",
+        t3: "On the last day of your stay, when leaving the apartment, please leave the keys in the mailbox.",
+        ulaz: "Apartment Entrance",
     },
     hr: {
         heading: "Apartman Una",
@@ -23,10 +26,31 @@ const translations = {
         ulaz: "Ulaz u apartman",
     },
     de: {
-        heading: "Appartement Una",
+        heading: "Apartment Una",
+        chooseLanguage: "Wählen Sie die Sprache: ",
+        t1: "Nachfolgend finden Sie Anweisungen zum Betreten der Wohnung und zur Navigation im Inneren.",
+        kakoDoci: "Wie Sie hierher kommen",
+        adresa: "Die Adresse lautet Umag, Olge Ban 3.",
+        parking: "Parken",
+        parkingOpis: "Vor der Wohnung befindet sich ein öffentlicher kostenloser Parkplatz.",
+        kljucevi: "Wohnungsschlüssel",
+        t2: "Sie können die Schlüssel aus dem Briefkasten (Familienname Keglević) abholen. Ein Schlüssel ist für das Tor zum Hof, der andere für den Eingang zur Wohnung. Bitte denken Sie daran, das Hof-Tor immer abzuschließen.",
+        t3: "Am letzten Tag Ihres Aufenthalts, wenn Sie die Wohnung verlassen, hinterlassen Sie bitte die Schlüssel im Briefkasten.",
+        ulaz: "Eingang zur Wohnung",
     },
     it: {
         heading: "Appartamento Una",
+        chooseLanguage: "Scegli la lingua: ",
+        t1: "Di seguito troverai istruzioni per l'accesso all'appartamento e per la navigazione al suo interno.",
+        kakoDoci: "Come Arrivare",
+        adresa: "L'indirizzo è Umago, Olge Ban 3.",
+        parking: "Parcheggio",
+        parkingOpis: "Davanti all'appartamento c'è un parcheggio pubblico gratuito.",
+        kljucevi: "Chiavi dell'Appartamento",
+        t2: "Puoi ritirare le chiavi dalla cassetta delle lettere (cognome Keglević). Una chiave è per l'ingresso del cortile, l'altra per l'ingresso dell'appartamento. Per favore, ricordati sempre di chiudere il cancello del cortile.",
+        t3: "L'ultimo giorno del tuo soggiorno, quando lasci l'appartamento, per favore lascia le chiavi nella cassetta delle lettere.",
+        ulaz: "Ingresso dell'Appartamento",
+
 
     }
 };
