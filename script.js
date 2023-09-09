@@ -13,6 +13,7 @@ const translations = {
         ulaz: "Apartment Entrance",
         dvoriste: "Courtyard Entrance",
         vrata: "Front Door",
+        t4: "Please pay attention when locking the door; first, lift the handle upwards, then turn the key in the lock.",
 
     },
     hr: {
@@ -29,6 +30,7 @@ const translations = {
         ulaz: "Ulaz u apartman",
         dvoriste: "Ulaz u dvorište",
         vrata: "Ulazna vrata",
+        t4: "Molimo vas obratite pozornost pri zaključavanju vrata, prvo je potrebno kvaku zakrenuti prema gore pa onda okrenuti ključ u bravi.",
     },
     de: {
         heading: "Apartment Una",
@@ -44,6 +46,7 @@ const translations = {
         ulaz: "Eingang zur Wohnung",
         dvoriste: "Hofeingang",
         vrata: "Haustür",
+        t4: "Bitte beachten Sie beim Verschließen der Tür: Zuerst den Griff nach oben ziehen und dann den Schlüssel im Schloss drehen.",
 
     },
     it: {
@@ -60,7 +63,7 @@ const translations = {
         ulaz: "Ingresso dell'Appartamento",
         dvoriste: "Ingresso al cortile",
         vrata: "Porta d'ingresso",
-
+        t4: "Si prega di prestare attenzione durante la chiusura della porta; prima sollevare la maniglia verso l'alto, quindi girare la chiave nella serratura.",
     }
 };
 
