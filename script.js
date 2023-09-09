@@ -12,6 +12,8 @@ const translations = {
         t3: "On the last day of your stay, when leaving the apartment, please leave the keys in the mailbox.",
         ulaz: "Apartment Entrance",
         dvoriste: "Courtyard Entrance",
+        vrata: "Front Door",
+
     },
     hr: {
         heading: "Apartman Una",
@@ -26,6 +28,7 @@ const translations = {
         t3: "Na zadnji dan boravka, pri odlasku iz apartmana, molimo vas ostavite ključeve u poštanskom sandučiću.",
         ulaz: "Ulaz u apartman",
         dvoriste: "Ulaz u dvorište",
+        vrata: "Ulazna vrata",
     },
     de: {
         heading: "Apartment Una",
@@ -40,6 +43,7 @@ const translations = {
         t3: "Am letzten Tag Ihres Aufenthalts, wenn Sie die Wohnung verlassen, hinterlassen Sie bitte die Schlüssel im Briefkasten.",
         ulaz: "Eingang zur Wohnung",
         dvoriste: "Hofeingang",
+        vrata: "Haustür",
 
     },
     it: {
@@ -55,7 +59,7 @@ const translations = {
         t3: "L'ultimo giorno del tuo soggiorno, quando lasci l'appartamento, per favore lascia le chiavi nella cassetta delle lettere.",
         ulaz: "Ingresso dell'Appartamento",
         dvoriste: "Ingresso al cortile",
-
+        vrata: "Porta d'ingresso",
 
     }
 };
