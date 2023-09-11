@@ -31,6 +31,10 @@ const translations = {
         dvoriste: "Ulaz u dvorište",
         vrata: "Ulazna vrata",
         t4: "Molimo vas obratite pozornost pri zaključavanju vrata, prvo je potrebno kvaku zakrenuti prema gore pa onda okrenuti ključ u bravi.",
+        dokumenti: "Dokumenti",
+	    dokumenti1: "Prije dolaska ili čim uđete u apartman, molimo vas slikajte svoje osobne dokumente sa obje strane (osobna iskaznica, putovnica, ...) i pošaljite nam ih jer smo obvezni prijaviti vaš boravak.",
+	    dokumenti2: "Vaše dokumente možete poslati u Facebook poruci na profil <a href=\"https://www.facebook.com/janja.keglevic.3\">link</a> ili na Viber broj +385 95 858 2O31",
+	
     },
     de: {
         heading: "Apartment Una",
