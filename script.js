@@ -14,6 +14,9 @@ const translations = {
         dvoriste: "Courtyard Entrance",
         vrata: "Front Door",
         t4: "Please pay attention when locking the door; first, lift the handle upwards, then turn the key in the lock.",
+	dokumenti: "Documents",
+	dokumenti1: "Before arrival or as soon as you enter the apartment, please take photos of your personal documents on both sides (ID card, passport, ...) and send them to us as we are required to register your stay.",
+	dokumenti2: "You can send your documents via Facebook message to the profile <a href=\"https://www.facebook.com/janja.keglevic.3\">link</a> or via Viber at +385 95 858 2O31.",
 
     },
     hr: {
@@ -51,6 +54,9 @@ const translations = {
         dvoriste: "Hofeingang",
         vrata: "Haustür",
         t4: "Bitte beachten Sie beim Verschließen der Tür: Zuerst den Griff nach oben ziehen und dann den Schlüssel im Schloss drehen.",
+	dokumenti: "Dokumente",
+	dokumenti1: "Vor der Anreise oder sobald Sie die Wohnung betreten, machen Sie bitte Fotos Ihrer persönlichen Dokumente auf beiden Seiten (Personalausweis, Reisepass, ...) und senden Sie sie uns zu, da wir verpflichtet sind, Ihren Aufenthalt zu registrieren.",
+	dokumenti2: "Sie können Ihre Dokumente über Facebook-Nachricht an das Profil <a href=\"https://www.facebook.com/janja.keglevic.3\">Link</a> oder über Viber unter +385 95 858 2O31 senden.",
 
     },
     it: {
@@ -68,6 +74,10 @@ const translations = {
         dvoriste: "Ingresso al cortile",
         vrata: "Porta d'ingresso",
         t4: "Si prega di prestare attenzione durante la chiusura della porta; prima sollevare la maniglia verso l'alto, quindi girare la chiave nella serratura.",
+	dokumenti: "Documenti",
+	dokumenti1: "Prima dell'arrivo o non appena entrate nell'appartamento, vi preghiamo di fare foto dei vostri documenti personali su entrambi i lati (carta d'identità, passaporto, ...) e inviarli a noi, poiché siamo tenuti a registrare il vostro soggiorno.",
+	dokumenti2: "Potete inviare i vostri documenti tramite messaggio su Facebook al profilo <a href=\"https://www.facebook.com/janja.keglevic.3\">link</a> o tramite Viber al numero +385 95 858 2O31.",
+
     },
     cz: {
         heading: "Apartmán Una",
@@ -84,6 +94,10 @@ const translations = {
         dvoriste: "Vstup do nádvoří",
         vrata: "Přední dveře",
         t4: "Při zamykání dveří pozorně zvedněte kliku nahoru a poté otočte klíčem v zámku.",
+	    dokumenti: "Dokumenty",
+dokumenti1: "Před příjezdem nebo hned po vstupu do apartmánu vás prosíme, abyste nafotografovali své osobní doklady ze všech stran (občanský průkaz, pas, ...) a poslali je nám, protože jsme povinni vaši pobyt registrovat.",
+dokumenti2: "Doklady můžete poslat prostřednictvím zprávy na Facebooku na profil <a href=\"https://www.facebook.com/janja.keglevic.3\">odkaz</a> nebo na číslo Viber +385 95 858 2O31.",
+
     },
     pl: {
         heading: "Apartament Una",
@@ -100,6 +114,10 @@ const translations = {
         dvoriste: "Wejście na dziedziniec",
         vrata: "Drzwi frontowe",
         t4: "Proszę zwrócić uwagę przy zamykaniu drzwi: najpierw podnieś klamkę w górę, a następnie obróć kluczem w zamku.",
+	    dokumenti: "Dokumenty",
+dokumenti1: "Przed przyjazdem lub jak tylko wejdziesz do apartamentu, prosimy zrób zdjęcia swoich dokumentów tożsamości z obu stron (dowód osobisty, paszport, ...) i prześlij nam je, ponieważ jesteśmy zobowiązani do zarejestrowania twojego pobytu.",
+dokumenti2: "Możesz przesłać swoje dokumenty za pośrednictwem wiadomości na Facebooku na profil <a href=\"https://www.facebook.com/janja.keglevic.3\">link</a> lub na numer Viber +385 95 858 2O31.",
+
 
     },
 };
