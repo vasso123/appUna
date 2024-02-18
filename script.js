@@ -72,7 +72,21 @@ const translations = {
 	dokumenti: "Dokumente",
 	dokumenti1: "Vor der Anreise oder sobald Sie die Wohnung betreten, machen Sie bitte Fotos Ihrer persönlichen Dokumente auf beiden Seiten (Personalausweis, Reisepass, ...) und senden Sie sie uns zu, da wir verpflichtet sind, Ihren Aufenthalt zu registrieren. Wir löschen Dokumentenbilder sofort nach der Registrierung.",
 	dokumenti2: "Sie können Ihre Dokumente über Facebook-Nachricht an das Profil https://www.facebook.com/janja.keglevic.3 oder über Viber unter +385 95 858 2O31 senden.",
-
+	klimaDaljinski: "Fernbedienung für die Klimaanlage",
+	klima1: "Klimaanlage ein-/ausschalten",
+	klima2: "Temperatur erhöhen/senken",
+	klima3: "Kühlung (Schneeflocke) / Heizung (Sonne) wählen",
+	klima4: "Kühlung ausgewählt",
+	grijanje: "Für die Heizung ist es notwendig, die Taste "Modus" zu drücken, damit das Quadrat neben der Sonne erscheint.",
+	tvDaljinski: "Fernbedienung für Fernseher",
+	tv1: "Fernseher ein-/ausschalten",
+	tv2: "TV-Receiver ein-/ausschalten",
+	tv3: "Ändern des TV-Kanals",
+	tv4: "Lautstärke erhöhen/senken",
+	toplaVoda: "Heißes Wasser",
+	bojler: "Damit heißes Wasser zum Duschen vorhanden ist, muss der Wasserboiler eingeschaltet sein.",
+	smece: "Müll",
+	smeceOpis: 'Bitte werfen Sie den Müll in den Container "Apartment Una" am Eingang zum Hof. Wenn der Container voll ist, können Sie uns auf Facebook oder Viber benachrichtigen, damit er geleert werden kann.'
     },
     it: {
         heading: "Appartamento Una",
