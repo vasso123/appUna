@@ -17,7 +17,11 @@ const translations = {
 	dokumenti: "Documents",
 	dokumenti1: "Before arrival or as soon as you enter the apartment, please take photos of your personal documents on both sides (ID card, passport, ...) and send them to us as we are required to register your stay. We delete document images immediately after registration.",
 	dokumenti2: "You can send your documents via Facebook message to the profile https://www.facebook.com/janja.keglevic.3 or via Viber at +385 95 858 2O31.",
-
+	klimaDaljinski: "Remote for air conditioning",
+	klima1: "Turn on/off the air conditioner",
+	klima2: "Increase/decrease temperature",
+	klima3: "Choose cooling (snowflake) / heating (sun)",
+	klima4: "Cooling selected",
     },
     hr: {
         heading: "Apartman Una",
