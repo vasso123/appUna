@@ -31,7 +31,7 @@ const translations = {
 	toplaVoda: "Hot water",
 	bojler: "In order to have hot water for showering, the water boiler must be turned on.",
 	smece: "Garbage",
-	smeceOpis: "Please throw garbage in the "Apartment Una" container at the entrance to the yard. If you fill the container, you can let us know on Facebook or Viber so that it can be emptied.",
+	smeceOpis: 'Please throw garbage in the "Apartment Una" container at the entrance to the yard. If you fill the container, you can let us know on Facebook or Viber so that it can be emptied.',
 	
     },
     hr: {
