@@ -22,6 +22,12 @@ const translations = {
 	klima2: "Increase/decrease temperature",
 	klima3: "Choose cooling (snowflake) / heating (sun)",
 	klima4: "Cooling selected",
+	grijanje: "For heating, it is necessary to press the "mode" button so that the square appears next to the sun.",
+	tvDaljinski: "Remote for TV",
+	tv1: "Turn on/off the TV",
+	tv2: "Turn on/off the TV receiver",
+	tv3: "Changing the TV channel",
+	tv4: "Volume up/down",
     },
     hr: {
         heading: "Apartman Una",
