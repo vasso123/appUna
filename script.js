@@ -176,6 +176,21 @@ dokumenti2: "Doklady můžete poslat prostřednictvím zprávy na Facebooku na p
 	    dokumenti: "Dokumenty",
 dokumenti1: "Przed przyjazdem lub jak tylko wejdziesz do apartamentu, prosimy zrób zdjęcia swoich dokumentów tożsamości z obu stron (dowód osobisty, paszport, ...) i prześlij nam je, ponieważ jesteśmy zobowiązani do zarejestrowania twojego pobytu. Usuwanie obrazów dokumentów od razu po rejestracji.",
 dokumenti2: "Możesz przesłać swoje dokumenty za pośrednictwem wiadomości na Facebooku na profil https://www.facebook.com/janja.keglevic.3 lub na numer Viber +385 95 858 2O31.",
+	klimaDaljinski: "Pilot do klimatyzacji",
+	klima1: "Włącz/wyłącz klimatyzację",
+	klima2: "Zwiększ/zmniejsz temperaturę",
+	klima3: "Wybierz chłodzenie (śnieżka) / ogrzewanie (słońce)",
+	klima4: "Wybrano chłodzenie",
+	grijanje: "Aby włączyć ogrzewanie, konieczne jest naciśnięcie przycisku \"Tryb\", aby obok słońca pojawił się kwadrat.",
+	tvDaljinski: "Pilot do telewizora",
+	tv1: "Włącz/wyłącz telewizor",
+	tv2: "Włącz/wyłącz odbiornik telewizyjny",
+	tv3: "Zmień kanał telewizyjny",
+	tv4: "Zwiększ/zmniejsz głośność",
+	toplaVoda: "Ciepła woda",
+	bojler: "Aby mieć ciepłą wodę do prysznica, należy włączyć bojler wody.",
+	smece: "Śmieci",
+	smeceOpis: 'Proszę wyrzuć śmieci do kontenera "Apartament Una" przy wejściu na podwórko. Jeśli kontener będzie pełny, daj nam znać na Facebooku lub Viberze, aby został opróżniony.'
 
 
     },
