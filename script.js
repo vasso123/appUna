@@ -141,6 +141,21 @@ const translations = {
 	    dokumenti: "Dokumenty",
 dokumenti1: "Před příjezdem nebo hned po vstupu do apartmánu vás prosíme, abyste nafotografovali své osobní doklady ze všech stran (občanský průkaz, pas, ...) a poslali je nám, protože jsme povinni vaši pobyt registrovat. Fotografie dokumentů ihned po registraci smažeme.",
 dokumenti2: "Doklady můžete poslat prostřednictvím zprávy na Facebooku na profil https://www.facebook.com/janja.keglevic.3 nebo na číslo Viber +385 95 858 2O31.",
+	klimaDaljinski: "Dálkové ovládání pro klimatizaci",
+	klima1: "Zapnout/vypnout klimatizaci",
+	klima2: "Zvýšit/snížit teplotu",
+	klima3: "Vybrat chlazení (sněhová vločka) / vytápění (slunce)",
+	klima4: "Vybráno chlazení",
+	grijanje: "Pro vytápění je nutné stisknout tlačítko \"Režim\", aby se vedle slunce zobrazil čtverec.",
+	tvDaljinski: "Dálkové ovládání pro televizi",
+	tv1: "Zapnout/vypnout televizi",
+	tv2: "Zapnout/vypnout TV přijímač",
+	tv3: "Změna TV kanálu",
+	tv4: "Zvýšit/snížit hlasitost",
+	toplaVoda: "Teplá voda",
+	bojler: "Aby byla k dispozici teplá voda na sprchování, je nutné zapnout ohřívač vody.",
+	smece: "Odpadky",
+	smeceOpis: 'Prosím, vyhoďte odpadky do kontejneru "Apartmán Una" na vstupu do dvora. Pokud je kontejner plný, dejte nám vědět na Facebooku nebo Viberu, aby byl vyprázdněn.'
 
     },
     pl: {
