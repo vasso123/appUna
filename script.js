@@ -101,7 +101,8 @@ const translations = {
 	toplaVoda: "Heißes Wasser",
 	bojler: "Damit heißes Wasser zum Duschen vorhanden ist, muss der Wasserboiler eingeschaltet sein.",
 	smece: "Müll",
-	smeceOpis: 'Bitte werfen Sie den Müll in den Container "Apartment Una" am Eingang zum Hof. Wenn der Container voll ist, können Sie uns auf Facebook oder Viber benachrichtigen, damit er geleert werden kann.'
+	smeceOpis: 'Bitte werfen Sie den Müll in den Container "Apartment Una" am Eingang zum Hof. Wenn der Container voll ist, können Sie uns auf Facebook oder Viber benachrichtigen, damit er geleert werden kann.',
+	tsifra: "Im Briefkasten finden Sie einen kleinen Safe. Den Code zum Öffnen des Safes senden wir Ihnen per Nachricht auf booking.com zu. Sie müssen den Code auf dem Safe auswählen, danach können Sie ihn öffnen und die Schlüssel zur Wohnung mitnehmen. Schließen Sie anschließend den Safe, stellen Sie einen Zufallscode ein und schließen Sie die Briefkastentür."    
     },
     it: {
         heading: "Appartamento Una",
@@ -135,7 +136,8 @@ const translations = {
 	toplaVoda: "Acqua calda",
 	bojler: "Per avere acqua calda per la doccia, è necessario accendere il boiler dell'acqua.",
 	smece: "Spazzatura",
-	smeceOpis: "Si prega di gettare la spazzatura nel contenitore \"Apartment Una\" all'ingresso del cortile. Se il contenitore è pieno, è possibile informarci su Facebook o Viber in modo che possa essere svuotato."
+	smeceOpis: "Si prega di gettare la spazzatura nel contenitore \"Apartment Una\" all'ingresso del cortile. Se il contenitore è pieno, è possibile informarci su Facebook o Viber in modo che possa essere svuotato.",
+	tsifra: "All'interno della cassetta della posta troverai una piccola cassaforte. Ti invieremo il codice per aprire la cassaforte in un messaggio su booking.com. Devi scegliere il codice sulla cassaforte, dopodiché potrai aprirla e portare con te le chiavi dell'appartamento. Successivamente, chiudi la cassaforte, imposta un codice casuale e chiudi la porta della cassetta postale."    
 
     },
     cz: {
@@ -170,8 +172,8 @@ dokumenti2: "Doklady můžete poslat prostřednictvím zprávy na Facebooku na p
 	toplaVoda: "Teplá voda",
 	bojler: "Aby byla k dispozici teplá voda na sprchování, je nutné zapnout ohřívač vody.",
 	smece: "Odpadky",
-	smeceOpis: 'Prosím, vyhoďte odpadky do kontejneru "Apartmán Una" na vstupu do dvora. Pokud je kontejner plný, dejte nám vědět na Facebooku nebo Viberu, aby byl vyprázdněn.'
-
+	smeceOpis: 'Prosím, vyhoďte odpadky do kontejneru "Apartmán Una" na vstupu do dvora. Pokud je kontejner plný, dejte nám vědět na Facebooku nebo Viberu, aby byl vyprázdněn.',
+	tsifra: "Uvnitř schránky najdete malý trezor. Kód pro otevření trezoru vám zašleme ve zprávě na booking.com. Musíte si vybrat kód na trezoru, poté jej můžete otevřít a vzít si klíče od bytu. Poté trezor zavřete, nastavte náhodný kód a zavřete dvířka poštovní schránky."
     },
     pl: {
         heading: "Apartament Una",
@@ -205,8 +207,8 @@ dokumenti2: "Możesz przesłać swoje dokumenty za pośrednictwem wiadomości na
 	toplaVoda: "Ciepła woda",
 	bojler: "Aby mieć ciepłą wodę do prysznica, należy włączyć bojler wody.",
 	smece: "Śmieci",
-	smeceOpis: 'Proszę wyrzuć śmieci do kontenera "Apartament Una" przy wejściu na podwórko. Jeśli kontener będzie pełny, daj nam znać na Facebooku lub Viberze, aby został opróżniony.'
-
+	smeceOpis: 'Proszę wyrzuć śmieci do kontenera "Apartament Una" przy wejściu na podwórko. Jeśli kontener będzie pełny, daj nam znać na Facebooku lub Viberze, aby został opróżniony.',
+	tsifra: "W skrzynce na listy znajdziesz mały sejf. Kod do otwarcia sejfu prześlemy Państwu w wiadomości na booking.com. Należy wybrać kod do sejfu, po czym można go otworzyć i zabrać klucze do mieszkania. Następnie zamknij sejf, ustaw losowy kod i zamknij drzwiczki skrzynki pocztowej."
 
     },
 };
