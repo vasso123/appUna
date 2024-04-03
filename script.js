@@ -32,7 +32,7 @@ const translations = {
 	bojler: "In order to have hot water for showering, the water boiler must be turned on.",
 	smece: "Garbage",
 	smeceOpis: 'Please throw garbage in the "Apartment Una" container at the entrance to the yard. If you fill the container, you can let us know on Facebook or Viber so that it can be emptied.',
-	
+	tsifra: "Inside the mailbox you will find a small safe. We will send you the code for opening the safe in a message on booking.com. You need to choose the code on the safe, after which you can open it and take the keys to the apartment. After that, close the safe, set a random code and close the mailbox door."
     },
     hr: {
         heading: "Apartman Una",
@@ -66,8 +66,8 @@ const translations = {
 	"toplaVoda": "Topla voda",
 	"bojler": "Da biste imali toplu vodu za tuširanje, potrebno je uključiti bojler za vodu.",
 	"smece": "Otpad",
-	"smeceOpis": 'Molimo bacite smeće u kontejner "Apartman Una" na ulazu u dvorište. Ako je kontejner pun, možete nas obavijestiti putem Facebooka ili Vibera kako bi se ispraznio.'
-
+	"smeceOpis": 'Molimo bacite smeće u kontejner "Apartman Una" na ulazu u dvorište. Ako je kontejner pun, možete nas obavijestiti putem Facebooka ili Vibera kako bi se ispraznio.',
+	"tsifra": "Unutar sandučića pronaći ćete mali sef. Šifru za otvaranje sefa poslati ćemo vam u poruci na booking.com. Šifru trebate odabrati na sefu, nakon čega ga možete otvoriti i preuzeti ključeve od apartmana. Sef nakon toga zatvorite, postavite neku nasumičnu šifru i zatvorite vrata sandučića."
     },
     de: {
         heading: "Apartment Una",
