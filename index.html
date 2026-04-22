@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>Apartman Una</title>
 </head>
@@ -12,12 +15,12 @@
         <nav>
             <div id="language-selector">
                 <p translate="chooseLanguage">Odaberite jezik:</p>
-                <span class="flag-link"><a href="#" id="lang-en"><img src="flag-en.png" alt="English Flag" style="width: 150px;"></a></span>
-                <span class="flag-link"><a href="#" id="lang-hr"><img src="flag-hr.png" alt="Croatian Flag" style="width: 150px;"></a></span>
-                <span class="flag-link"><a href="#" id="lang-de"><img src="flag-de.png" alt="Germany Flag" style="width: 150px;"></a></span>
-                <span class="flag-link"><a href="#" id="lang-it"><img src="flag-it.png" alt="Italy Flag" style="width: 150px;"></a></span>
-		<span class="flag-link"><a href="#" id="lang-cz"><img src="flag-cz.png" alt="Czech Flag" style="width: 150px;"></a></span>
-		<span class="flag-link"><a href="#" id="lang-pl"><img src="flag-pl.png" alt="Poland Flag" style="width: 150px;"></a></span>
+                <span class="flag-link"><a href="#" id="lang-en"><img src="flag-en.png" alt="English Flag"></a></span>
+                <span class="flag-link"><a href="#" id="lang-hr"><img src="flag-hr.png" alt="Croatian Flag"></a></span>
+                <span class="flag-link"><a href="#" id="lang-de"><img src="flag-de.png" alt="Germany Flag"></a></span>
+                <span class="flag-link"><a href="#" id="lang-it"><img src="flag-it.png" alt="Italy Flag"></a></span>
+		<span class="flag-link"><a href="#" id="lang-cz"><img src="flag-cz.png" alt="Czech Flag"></a></span>
+		<span class="flag-link"><a href="#" id="lang-pl"><img src="flag-pl.png" alt="Poland Flag"></a></span>
             </div>
         </nav>
     </header>
@@ -28,25 +31,34 @@
 	<p translate="dokumenti2">Vaše dokumente možete poslati u Facebook poruci na profil <a href="https://www.facebook.com/janja.keglevic.3">link</a> ili na Viber broj +385 95 858 2O31</p>
 	<h2 translate="kakoDoci">Kako doći</h2>
 	<p translate="adresa">Adresa je Umag, Olge Ban 3.</p>
-	<p><img src="directions.jpg" alt="directions" style="max-width: 100%; height: auto;"></p>
+	<p><img src="directions.jpg" alt="directions"></p>
+	<div class="map-container">
+		<iframe
+			src="https://www.google.com/maps?q=45.43091472742975,13.523965328812663&z=17&output=embed"
+			allowfullscreen=""
+			loading="lazy"
+			referrerpolicy="no-referrer-when-downgrade"
+			title="Google Maps - Umag, Olge Ban 3">
+		</iframe>
+	</div>
 	<h2 translate="parking">Parking</h2>
 	<p translate="parkingOpis">Ispred apartmana se nalazi javni besplatni parking.</p>
-	<p><img src="parking.jpg" alt="parking" style="max-width: 100%; height: auto;"></p>
+	<p><img src="parking.jpg" alt="parking"></p>
 	<p translate="altParking">U slučaju da je zauzet navedeni parking ispred apartmana, preporučamo ove alternativne besplatne parkinge:</p>
-	<p><img src="alternativni_besplatni_parking.jpg" alt="alternativni besplatni parking" style="max-width: 100%; height: auto;"></p>
+	<p><img src="alternativni_besplatni_parking.jpg" alt="alternativni besplatni parking"></p>
 	<h2 translate="dvoriste">Ulaz u dvorište</h2>
-	<p><img src="dvoriste.jpg" alt="dvoriste" style="max-width: 100%; height: auto;"></p>
+	<p><img src="dvoriste.jpg" alt="dvoriste"></p>
 	<h2 translate="kljucevi">Ključevi</h2>
 	<p translate="t2">Ključeve možete preuzeti u poštanskom sandučiću (prezime Keglević). Jedan ključ je za ulazna vrata u dvorište, a drugi je za ulaz u apartman. Molimo vas da uvijek zaključavate dvorišna vrata.</p>
     	<p translate="t3">Na zadnji dan boravka, pri odlasku iz apartmana, molimo vas ostavite ključeve u poštanskom sandučiću.</p>
-	<p><img src="sanducic.jpg" alt="sanducic" style="max-width: 100%; height: auto;"></p>
+	<p><img src="sanducic.jpg" alt="sanducic"></p>
 	<p translate="tsifra">Unutar sandučića pronaći ćete mali sef. Šifru za otvaranje sefa poslati ćemo vam u poruci na booking.com. Šifru trebate odabrati na sefu, nakon čega ga možete otvoriti i preuzeti ključeve od apartmana. Sef nakon toga zatvorite, postavite neku nasumičnu šifru i zatvorite vrata sandučića.</p>
-	<p><img src="sanducic2.jpg" alt="sanducic2" style="max-width: 100%; height: auto;"></p>
+	<p><img src="sanducic2.jpg" alt="sanducic2"></p>
 	<h2 translate="ulaz">Ulaz u apartman</h2>
-	<p><img src="ulaz.jpg" alt="ulaz" style="max-width: 100%; height: auto;"></p>
+	<p><img src="ulaz.jpg" alt="ulaz"></p>
 	<h2 translate="vrata">Ulazna vrata</h2>
 	<p translate="t4">Molimo vas obratite pozornost pri zaključavanju vrata, prvo je potrebno kvaku zakrenuti prema gore pa onda okrenuti ključ u bravi.</p>
-	<p><img src="kvaka.jpg" alt="kvaka" style="max-width: 100%; height: auto;"></p>
+	<p><img src="kvaka.jpg" alt="kvaka"></p>
 	<h2 translate="klimaDaljinski">Daljinski za klimu</h2>
 	<ol>
 	  <li translate="klima1">Upali/ugasi klimu</li>
@@ -54,9 +66,9 @@
 	  <li translate="klima3">Odaberi hlađenje(pahulja) / grijanje(sunce)</li>
 	  <li translate="klima4">Odabrano hlađenje</li>
 	</ol>
-	<p><img src="ljeto_klima.jpg" alt="klima-ljeto" style="max-width: 100%; height: auto;"></p>
+	<p><img src="ljeto_klima.jpg" alt="klima-ljeto"></p>
 	<p translate="grijanje">Za grijanje, potrebno je pritisnuti tipku "mode" kako bi se kvadratić pojavio uz sunce.</p>
-	<p><img src="zima_klima.jpg" alt="klima-zima" style="max-width: 100%; height: auto;"></p>
+	<p><img src="zima_klima.jpg" alt="klima-zima"></p>
 	<h2 translate="tvDaljinski">Daljinski za TV</h2>
 	<ol>
 	  <li translate="tv1">Upali/ugasi TV</li>
@@ -64,13 +76,13 @@
 	  <li translate="tv3">Promjena TV kanala</li>
 	  <li translate="tv4">Pojačaj/smanji glasnoću</li>
 	</ol>
-	<p><img src="tv_daljinski.jpg" alt="tv-daljinski" style="max-width: 100%; height: auto;"></p>
+	<p><img src="tv_daljinski.jpg" alt="tv-daljinski"></p>
 	<h2 translate="toplaVoda">Topla voda</h2>
 	<p translate="bojler">Kako biste imali tople vode za tuširanje, bojler za vodu treba biti upaljen.</p>
-	<p><img src="bojler.jpg" alt="bojler" style="max-width: 100%; height: auto;"></p>
+	<p><img src="bojler.jpg" alt="bojler"></p>
 	<h2 translate="smece">Smeće</h2>
 	<p translate="smeceOpis">Molimo vas da smeće bacate u kontejner "Apartman Una" kod ulaza u dvorište. Ukoliko napunite kontejner možete nam javiti na Facebook ili Viber kako bi ga ispraznili.</p>
-	<p><img src="kontejner.jpg" alt="kontejner" style="max-width: 100%; height: auto;"></p>
+	<p><img src="kontejner.jpg" alt="kontejner"></p>
     </main>
     <script src="script.js"></script>
 </body>

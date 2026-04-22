@@ -1,1 +1,163 @@
+:root {
+    --sea-deep: #1B6B93;
+    --sea-light: #E8F4F8;
+    --sand: #F9F5F0;
+    --text-primary: #2C3E50;
+    --text-secondary: #5D6D7E;
+    --accent-warm: #E8A87C;
+}
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: var(--sea-light);
+    color: var(--text-primary);
+    line-height: 1.7;
+}
+
+header {
+    background-color: var(--sea-deep);
+    color: #fff;
+    text-align: center;
+    padding: 2rem 1rem 1.5rem;
+}
+
+header h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+#language-selector p {
+    font-size: 0.95rem;
+    margin-bottom: 0.75rem;
+    opacity: 0.9;
+}
+
+#language-selector {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.flag-link img {
+    width: 90px;
+    height: auto;
+    border-radius: 4px;
+    transition: transform 0.2s ease;
+    cursor: pointer;
+}
+
+.flag-link img:hover {
+    transform: scale(1.1);
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 3rem;
+}
+
+main > p:first-child {
+    background-color: var(--sand);
+    border-left: 4px solid var(--accent-warm);
+    padding: 1rem 1.25rem;
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 2rem;
+    color: var(--text-secondary);
+}
+
+h2 {
+    color: var(--sea-deep);
+    font-weight: 600;
+    font-size: 1.35rem;
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--sea-deep);
+}
+
+main p {
+    margin-bottom: 1rem;
+}
+
+main img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(27, 107, 147, 0.12);
+    display: block;
+    margin: 0.5rem 0 1.5rem;
+}
+
+.map-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    margin: 0.5rem 0 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(27, 107, 147, 0.12);
+    overflow: hidden;
+}
+
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+ol {
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+ol li {
+    margin-bottom: 0.3rem;
+}
+
+a {
+    color: var(--sea-deep);
+    text-decoration: underline;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: var(--accent-warm);
+}
+
+@media (max-width: 600px) {
+    header {
+        padding: 1.5rem 1rem 1rem;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    .flag-link img {
+        width: 70px;
+    }
+
+    main {
+        padding: 1.25rem 1rem 2rem;
+    }
+
+    h2 {
+        font-size: 1.15rem;
+        margin-top: 2rem;
+    }
+
+    body {
+        font-size: 0.95rem;
+    }
+}
